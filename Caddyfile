@@ -1,0 +1,27 @@
+blog.yili.fit {
+    tls 863146747@qq.com
+    encode zstd gzip
+    root blog
+    file_server
+
+    handle_errors {
+        @404 {
+            expression {http.error.status_code} == 404
+        }
+        handle @404 {
+            rewrite * /404.html
+            file_server
+        }
+    }
+
+    route /webhook {
+        webhook {
+            repo https://gitee.com/yili979/yili-blog.git
+            branch master
+            path blog
+            secret blogyilifit979
+            submodule
+            type gitee
+        }
+    }
+}

@@ -1,0 +1,72 @@
+[
+  {
+    "name": "about",
+    "path": "/about",
+    "component": "E:\\\\github_project\\\\nuxt-blog\\\\pages\\\\about.vue",
+    "chunkName": "pages/about",
+    "_name": "_82725e76"
+  },
+  {
+    "name": "archives",
+    "path": "/archives",
+    "component": "E:\\\\github_project\\\\nuxt-blog\\\\pages\\\\archives.vue",
+    "chunkName": "pages/archives",
+    "_name": "_fac2262e"
+  },
+  {
+    "name": "link",
+    "path": "/link",
+    "component": "E:\\\\github_project\\\\nuxt-blog\\\\pages\\\\link.vue",
+    "chunkName": "pages/link",
+    "_name": "_0585a872"
+  },
+  {
+    "name": "love",
+    "path": "/love",
+    "component": "E:\\\\github_project\\\\nuxt-blog\\\\pages\\\\love.vue",
+    "chunkName": "pages/love",
+    "_name": "_503d43ea"
+  },
+  {
+    "name": "message",
+    "path": "/message",
+    "component": "E:\\\\github_project\\\\nuxt-blog\\\\pages\\\\message.vue",
+    "chunkName": "pages/message",
+    "_name": "_174fcf82"
+  },
+  {
+    "name": "shuoshuo",
+    "path": "/shuoshuo",
+    "component": "E:\\\\github_project\\\\nuxt-blog\\\\pages\\\\shuoshuo.vue",
+    "chunkName": "pages/shuoshuo",
+    "_name": "_86ff8354"
+  },
+  {
+    "name": "categories-slug",
+    "path": "/categories/:slug?",
+    "component": "E:\\\\github_project\\\\nuxt-blog\\\\pages\\\\categories\\\\_slug.vue",
+    "chunkName": "pages/categories/_slug",
+    "_name": "_71b74f26"
+  },
+  {
+    "name": "posts-slug",
+    "path": "/posts/:slug?",
+    "component": "E:\\\\github_project\\\\nuxt-blog\\\\pages\\\\posts\\\\_slug.vue",
+    "chunkName": "pages/posts/_slug",
+    "_name": "_74c54acf"
+  },
+  {
+    "name": "tags-slug",
+    "path": "/tags/:slug?",
+    "component": "E:\\\\github_project\\\\nuxt-blog\\\\pages\\\\tags\\\\_slug.vue",
+    "chunkName": "pages/tags/_slug",
+    "_name": "_2b140909"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "E:\\\\github_project\\\\nuxt-blog\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_4302a8ec"
+  }
+]
