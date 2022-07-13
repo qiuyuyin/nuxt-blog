@@ -6,7 +6,9 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-
+/util/main.go
+/util/yili*
+win.ps1
 # output directory
 dist
 
